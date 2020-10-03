@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Training Evaluation of Employees in a Corporate setting using Data Scienc"
-date:       2020-10-03 02:31:44 +0000
+title:      "Training Evaluation of Employees in a Corporate setting using Data Science"
+date:       2020-10-02 22:31:46 -0400
 permalink:  training_evaluation_of_employees_in_a_corporate_setting_using_data_scienc
 ---
 
