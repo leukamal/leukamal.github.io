@@ -14,16 +14,10 @@ Giving the fact that Companies put a lot of money, time, and hard work to train 
 
 I have a background in data science, just graduated from Flatiron online training Bootcamp in data science. I am using this new skill couple with my experience in the workforce to collect data in the various sectors involve in my training evaluation and every 6 months the data will be analyzed and a report produces indicating if the training program need to be re-tune or no. The tables below will be used to collect the data.
 
-		 | Trainings	| Participant 1 | Participant  2 | Participant  3 | Participant 4 | Participant 5    | Participant 6 |
-     | -------- ---| --------  ----   | --------             |----------------|----------------|-----------------|---------------|
-		         SOP1
-		 |-------- ---| --------  ----   | --------             |----------------|----------------|-----------------|---------------|
-		       SOP2
-		 |-------- ---| --------  ----   | --------             |----------------|----------------|-----------------|---------------|
-			      SOP3
-			 |-------- ---| --------  ----   | --------             |----------------|----------------|-----------------|---------------|
-			  |-------- ---| --------  ----   | --------             |----------------|----------------|-----------------|---------------|
-         
+		| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| John     | Doe      | Male     |
+| Mary     | Smith    | Female   |
 
          
 
