@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "State of mind."
-date:       2020-10-24 04:24:00 +0000
+date:       2020-10-24 00:24:01 -0400
 permalink:  state_of_mind
 ---
 
