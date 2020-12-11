@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Do you have to memorize code in any programming language?"
-date:       2020-12-11 09:22:17 +0000
+date:       2020-12-11 04:22:18 -0500
 permalink:  do_you_have_to_memorize_code_in_any_programming_language
 ---
 
